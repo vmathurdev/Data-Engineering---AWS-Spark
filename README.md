@@ -8,13 +8,13 @@ Process and Code Walkthrough
 
 The pipeline for this analysis comprised of the following steps-
 
-Initializing the spark environment
-Reading the data from the csv into a spark dataframe
-Creating s3 bucket and dumping the data there
-Writing parquet to s3 bucket and moving the data
-Creating a dataframe from parquet
-Exploring the data
-Model building – feature selection, vectorization
-Fitting a linear regression model
-Visualization of model fit
-Evaluation of predicted results
+- <br /> Initializing the spark environment
+- <br /> Reading the data from the csv into a spark dataframe
+- <br /> Creating s3 bucket and dumping the data there
+- <br /> Writing parquet to s3 bucket and moving the data
+- <br /> Creating a dataframe from parquet
+- <br /> Exploring the data
+- <br /> Model building – feature selection, vectorization
+- <br /> Fitting a linear regression model
+- <br /> Visualization of model fit
+- <br /> Evaluation of predicted results
